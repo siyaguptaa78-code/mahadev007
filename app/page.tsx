@@ -8,40 +8,40 @@ import {
 } from 'lucide-react';
 
 const stats = [
-  { value: '1.2M+', label: 'Active Users', desc: 'Trusted since 2018' },
-  { value: '60K+', label: 'Events / Month', desc: 'Live sports & games' },
-  { value: '24/7', label: 'Support Speed', desc: 'Average response < 1m' }
+  { value: '1.2M+', label: 'Active Users', desc: 'Trusted Since 2018' },
+  { value: '60K+', label: 'Events / Month', desc: 'Live Sports & Games' },
+  { value: '24/7', label: 'Support Speed', desc: 'Avg. <1m' }
 ];
 
 const games = [
-  { title: "Cricket Betting", desc: "Live IPL, International matches, T20 leagues with competitive odds and real-time markets.", icon: "🏏" },
-  { title: "Football Leagues", desc: "Bet on Premier League, Champions League, La Liga, and Indian Super League events.", icon: "⚽" },
-  { title: "Live Casino", desc: "Enjoy live dealer streams of Teen Patti, Andar Bahar, Roulette, and Poker from home.", icon: "🃏" },
-  { title: "Tennis Matches", desc: "Place real-time bets on Grand Slams, ATP tour, and WTA tour tournaments.", icon: "🎾" },
-  { title: "Virtual Sports", desc: "Fast-paced digital cricket, football and racing simulations available 24 hours a day.", icon: "🎮" }
+  { title: "Cricket Betting", desc: "Bet on live and pre-match IPL, International and T20 matches", icon: "🏏" },
+  { title: "Football League", desc: "Bet on live & pre-match Premier league, Champions league, La Liga, ISL", icon: "⚽" },
+  { title: "Live Casino", desc: "Enjoy live streaming of Teen patti, Andar Bahar, Roulette and Poker", icon: "🃏" },
+  { title: "Tennis Match", desc: "Bet on live scores of Grand Slams, Australian open, WTA & ATP tennis", icon: "🎾" },
+  { title: "Virtual Sports", desc: "Play fast-paced digital sports like Cricket, Football and Horse racing", icon: "🎮" }
 ];
 
 const features = [
-  { title: "Secure Payments", desc: "UPI, GPay, Paytm, PhonePe, and local bank transfers with 256-bit encryption.", icon: Shield },
-  { title: "Fast Payouts", desc: "Direct bank transfer withdrawals processed in 5-10 minutes flat.", icon: Zap },
-  { title: "Data Insights", desc: "Free prediction models, player stats, and historical head-to-head analysis.", icon: TrendingUp },
-  { title: "24/7 WhatsApp help", desc: "Dedicated personal relationship managers to assist you instantly.", icon: Headphones }
+  { title: "Secure", desc: "UPI, GPay, Paytm, PhonePe & net-banking deposits with 256 bit encryption", icon: Shield },
+  { title: "Fast Withdrawals", desc: "Direct bank transfers for withdrawals that are processed within 5-10 mins", icon: Zap },
+  { title: "Data Support", desc: "Free data analytics, predictions & head-to-head stats on sportspersons", icon: TrendingUp },
+  { title: "24/7 WhatsApp help", desc: "Personal managers to get you instant assistance", icon: Headphones }
 ];
 
 const reviews = [
-  { name: "Rahul S.", location: "Mumbai", comment: "Withdrawal credited within 5 minutes! Best platform I've used.", rating: 5 },
-  { name: "Priya K.", location: "Delhi", comment: "Got my ID the same day. Super smooth process and amazing support team!", rating: 5 },
-  { name: "Vikram M.", location: "Bangalore", comment: "IPL betting experience was incredible. Real-time updates and fast payouts.", rating: 5 },
-  { name: "Ankit T.", location: "Pune", comment: "100% genuine platform. I trust Mahadev Book for all my betting.", rating: 5 },
-  { name: "Suresh P.", location: "Hyderabad", comment: "Best customer service! They resolved my issue in minutes via WhatsApp.", rating: 5 },
+  { name: "Rahul S.", location: "Mumbai", comment: "Winnings credited within 5 mins! Best website ever", rating: 5 },
+  { name: "Priya K.", location: "Delhi", comment: "ID received same day. Fast and efficient service with good customer care.", rating: 5 },
+  { name: "Vikram M.", location: "Bangalore", comment: "Betting on IPL was great experience. Fast withdrawals.", rating: 5 },
+  { name: "Ankit T.", location: "Pune", comment: "Best website. All bets are genuine and transparent.", rating: 5 },
+  { name: "Suresh P.", location: "Hyderabad", comment: "Very quick response on WhatsApp. Issue resolved immediately.", rating: 5 },
   { name: "Riya N.", location: "Chennai", comment: "Mujhe bahut accha experience mila. Payout fast aur secure hai.", rating: 5 }
 ];
 
 const trustPoints = [
-  { title: "Expertise", desc: "Built by sports & gaming veterans with 15+ years of proven innovation.", icon: Award },
-  { title: "Experience", desc: "Trusted by 1.2M+ users since 2018 with over 60M successful transactions.", icon: Check },
-  { title: "Authority", desc: "Recognized as India's leading betting platform by top industry awards.", icon: Shield },
-  { title: "Trust", desc: "SSL encrypted, PCI-DSS compliant, and fair play certified by iTech Labs.", icon: Lock }
+  { title: "Expertise", desc: "Sports & gaming experts with 15+ years in the business", icon: Award },
+  { title: "Experience", desc: "1.2M+ users trusted us since 2018 with 60M+ successful financial transactions", icon: Check },
+  { title: "Authority", desc: "India's most popular betting portal awarded by leading media houses", icon: Shield },
+  { title: "Trust", desc: "SSL & PCI-DSS certified with fair play assurance from iTech Labs", icon: Lock }
 ];
 
 const faqs = [
@@ -119,7 +119,7 @@ export default function Home() {
           <div>
             <h2 className="text-4xl font-black mb-8 border-b-4 border-fuchsia-600 inline-block pb-2">ABOUT MAHADEV</h2>
             <p className="text-zinc-400 text-lg mb-8 leading-relaxed">
-              Mahadev Book operates as a trusted aggregator. With one simple WhatsApp message, you unlock an entire ecosystem of live betting, premium sportsbooks, and high-stakes casino games. We guarantee secure payments and rapid withdrawals.
+              Mahadev Book offers you betting exchange through aggregator with just a WhatsApp message. Get access to sports betting and high-roller casinos with guaranteed secure payments and quick withdrawals.
             </p>
             <div className="grid grid-cols-2 gap-4">
               {trustPoints.map((tp, i) => (
