@@ -10,6 +10,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
     { url: '', priority: 1.0, changeFrequency: 'daily' as const },
     { url: '/about', priority: 0.8, changeFrequency: 'monthly' as const },
     { url: '/blog', priority: 0.9, changeFrequency: 'weekly' as const },
+    { url: '/premier-league-table', priority: 0.9, changeFrequency: 'weekly' as const },
     { url: '/mahadev-betting-app', priority: 0.9, changeFrequency: 'monthly' as const },
     { url: '/mahadev-book-id', priority: 0.9, changeFrequency: 'monthly' as const },
     { url: '/faq', priority: 0.7, changeFrequency: 'monthly' as const },
@@ -21,12 +22,14 @@ export default function sitemap(): MetadataRoute.Sitemap {
     priority: route.priority,
   }));
 
-  const blogRoutes = blogPosts.map((post) => ({
-    url: `${baseUrl}/blog/${post.slug}`,
-    lastModified: now,
-    changeFrequency: 'weekly' as const,
-    priority: 0.6,
-  }));
+  const blogRoutes = blogPosts
+    .filter((post) => post.slug !== 'premier-league-table')
+    .map((post) => ({
+      url: `${baseUrl}/blog/${post.slug}`,
+      lastModified: now,
+      changeFrequency: 'weekly' as const,
+      priority: 0.6,
+    }));
 
   return [...routes, ...blogRoutes];
 }

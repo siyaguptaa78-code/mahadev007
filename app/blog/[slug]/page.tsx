@@ -1,5 +1,5 @@
 import { blogPosts } from "../../../lib/blogData";
-import { notFound } from "next/navigation";
+import { notFound, redirect } from "next/navigation";
 import Link from "next/link";
 import { Calendar, Clock, ChevronLeft } from "lucide-react";
 import type { Metadata } from "next";
@@ -11,6 +11,13 @@ export async function generateMetadata({
   params: Promise<{ slug: string }>;
 }): Promise<Metadata> {
   const resolvedParams = await params;
+  if (resolvedParams.slug === 'premier-league-table') {
+    return {
+      title: "Premier League Table: 2026-27 Standings Hub | Mahadev Book",
+      description: "The live Premier League table for 2026-27, Arsenal's title defence, and how last season finished. Standings updated after every matchweek, with India viewing times.",
+      alternates: { canonical: `${SITE_CONFIG.url}/premier-league-table/` },
+    };
+  }
   const post = blogPosts.find((p) => p.slug === resolvedParams.slug);
   if (!post) {
     return { title: "Post Not Found | Mahadev Book" };
@@ -46,6 +53,9 @@ interface PageProps {
 
 export default async function BlogPostPage({ params }: PageProps) {
   const resolvedParams = await params;
+  if (resolvedParams.slug === 'premier-league-table') {
+    redirect('/premier-league-table/');
+  }
   const post = blogPosts.find((p) => p.slug === resolvedParams.slug);
 
   if (!post) {

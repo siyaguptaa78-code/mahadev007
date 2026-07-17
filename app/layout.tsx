@@ -99,7 +99,7 @@ export default function RootLayout({
   return (
     <html
       lang="en"
-      className={`${outfit.variable} ${playfair.variable} h-full antialiased dark`}
+      className={`${outfit.variable} ${playfair.variable} h-full antialiased dark overflow-x-hidden`}
       style={{ colorScheme: 'dark' }}
     >
       <head>
@@ -108,7 +108,7 @@ export default function RootLayout({
           dangerouslySetInnerHTML={{ __html: JSON.stringify(structuredData) }}
         />
       </head>
-      <body className="min-h-full flex flex-col bg-[#050505] text-zinc-100 font-sans selection:bg-violet-500/20 selection:text-violet-300">
+      <body className="min-h-full flex flex-col bg-[#050505] text-zinc-100 font-sans selection:bg-violet-500/20 selection:text-violet-300 overflow-x-hidden">
         <Navbar />
         <main className="flex-grow pt-20">
           {children}

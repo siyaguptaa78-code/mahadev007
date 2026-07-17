@@ -67,13 +67,7 @@ export default function Home() {
   const whatsappUrl = "https://wa.me/916026703858";
 
   return (
-    <div className="relative min-h-screen bg-[#060010] text-fuchsia-50 font-sans selection:bg-fuchsia-500/40">
-      {/* Brutalist Top Nav */}
-      <nav className="w-full border-b-[3px] border-fuchsia-900 bg-[#060010] px-6 py-4 flex justify-between items-center sticky top-0 z-50">
-        <div className="font-black text-2xl tracking-tighter text-white uppercase">MAHADEV<span className="text-fuchsia-500 bg-fuchsia-500/10 px-2 ml-1 rounded">BOOK</span></div>
-        <a href={whatsappUrl} className="bg-fuchsia-600 text-white font-bold px-6 py-2 hover:bg-fuchsia-500 transition-colors uppercase tracking-widest text-sm shadow-[4px_4px_0_0_rgba(217,70,239,0.3)]">Get ID</a>
-      </nav>
-
+    <div className="relative min-h-screen bg-[#060010] text-fuchsia-50 font-sans selection:bg-fuchsia-500/40 overflow-x-hidden">
       {/* Hero - Neo Brutalism & Diagonal Elements */}
       <section className="relative px-6 py-20 lg:py-32 max-w-7xl mx-auto overflow-hidden">
         <div className="absolute top-20 right-10 w-96 h-96 bg-fuchsia-600 rounded-full blur-[150px] opacity-20"></div>

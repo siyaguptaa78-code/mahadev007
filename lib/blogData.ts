@@ -11,6 +11,21 @@ export interface BlogPost {
 
 export const blogPosts: BlogPost[] = [
   {
+    slug: "premier-league-table",
+    title: "Premier League Table: 2026-27 Standings Hub",
+    excerpt: "The live Premier League table for 2026-27, Arsenal's title defence, and how last season finished. Standings updated after every matchweek, with India viewing times.",
+    date: "July 14, 2026",
+    category: "Football",
+    icon: "⚽",
+    readTime: "4 min read",
+    content: `
+      <p>The wait ended in two senses for Arsenal. The club's twenty-two-year title drought finished in May — and in August they begin defending a Premier League crown for the first time since the Invincibles era. This page updates the live Premier League table throughout the 2026-27 season, bringing you the plots and subplots beyond the numbers.</p>
+      <h3>Premier League Table 2026-27</h3>
+      <p>The live table will appear here once the 2026-27 season gets under way in August. It includes all 20 clubs, with positions, number of matches played, wins, draws, losses, goal difference and points up to the most recent gameweek.</p>
+      <p>Until then, the section below provides the conclusions of the last campaign, as a reminder of where teams stood before the new season began.</p>
+    `
+  },
+  {
     slug: "benefits-of-verified-id-2025",
     title: "Benefits of Having a Verified Lotus Book ID in 2025",
     excerpt: "Discover why having a verified Lotus Book ID is essential for secure and rewarding online betting in 2025.",

@@ -37,7 +37,7 @@ export default function Navbar() {
 
   return (
     <header className={`fixed top-0 left-0 right-0 z-50 transition-all duration-300 ${
-      scrolled 
+      scrolled || isOpen
         ? 'bg-black/95 backdrop-blur-md border-b border-amber-500/10 py-3 shadow-lg shadow-black/50' 
         : 'bg-transparent py-5'
     }`}>
@@ -103,7 +103,7 @@ export default function Navbar() {
 
       {/* Mobile Menu */}
       {isOpen && (
-        <div className="lg:hidden bg-zinc-950 border-b border-amber-500/15 py-4 px-4 sm:px-6">
+        <div className="lg:hidden bg-zinc-950 border-b border-amber-500/15 py-4 px-4 sm:px-6 max-h-[calc(100vh-5rem)] overflow-y-auto">
           <nav className="flex flex-col gap-3">
             {navItems.map((item) => {
               const isActive = pathname === item.path;
