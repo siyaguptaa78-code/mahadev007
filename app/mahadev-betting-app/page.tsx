@@ -25,7 +25,7 @@ const activeMatches = [
 ];
 
 export default function BettingAppPage() {
-  const whatsappUrl = "https://wa.me/918872189471";
+  const whatsappUrl = "https://wa.me/918796686330";
 
   return (
     <div className="min-h-screen bg-black py-16">

@@ -1,19 +1,19 @@
-'use client';
+"use client";
 
-import React, { useState, useEffect } from 'react';
-import Link from 'next/link';
-import { usePathname } from 'next/navigation';
-import Logo from '../UI/Logo';
-import { Menu, X, MessageCircle } from 'lucide-react';
+import React, { useState, useEffect } from "react";
+import Link from "next/link";
+import { usePathname } from "next/navigation";
+import Logo from "../UI/Logo";
+import { Menu, X, MessageCircle } from "lucide-react";
 
 const navItems = [
-  { name: 'Home', path: '/' },
-  { name: 'About', path: '/about' },
-  { name: 'Blog', path: '/blog' },
-  { name: 'Betting App', path: '/mahadev-betting-app' },
-  { name: 'Book ID', path: '/mahadev-book-id' },
-  { name: 'FAQ', path: '/faq' },
-  { name: 'Contact', path: '/contact' }
+  { name: "Home", path: "/" },
+  { name: "About", path: "/about" },
+  { name: "Blog", path: "/blog" },
+  { name: "Betting App", path: "/mahadev-betting-app" },
+  { name: "Book ID", path: "/mahadev-book-id" },
+  { name: "FAQ", path: "/faq" },
+  { name: "Contact", path: "/contact" },
 ];
 
 export default function Navbar() {
@@ -29,18 +29,20 @@ export default function Navbar() {
         setScrolled(false);
       }
     };
-    window.addEventListener('scroll', handleScroll);
-    return () => window.removeEventListener('scroll', handleScroll);
+    window.addEventListener("scroll", handleScroll);
+    return () => window.removeEventListener("scroll", handleScroll);
   }, []);
 
-  const whatsappUrl = "https://wa.me/918872189471";
+  const whatsappUrl = "https://wa.me/918796686330";
 
   return (
-    <header className={`fixed top-0 left-0 right-0 z-50 transition-all duration-300 ${
-      scrolled || isOpen
-        ? 'bg-black/95 backdrop-blur-md border-b border-amber-500/10 py-3 shadow-lg shadow-black/50' 
-        : 'bg-transparent py-5'
-    }`}>
+    <header
+      className={`fixed top-0 left-0 right-0 z-50 transition-all duration-300 ${
+        scrolled || isOpen
+          ? "bg-black/95 backdrop-blur-md border-b border-amber-500/10 py-3 shadow-lg shadow-black/50"
+          : "bg-transparent py-5"
+      }`}
+    >
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="flex items-center justify-between">
           <Link href="/">
@@ -56,13 +58,19 @@ export default function Navbar() {
                   key={item.name}
                   href={item.path}
                   className={`relative px-4 py-2 text-sm font-medium transition-colors duration-200 group ${
-                    isActive ? 'text-amber-400' : 'text-zinc-300 hover:text-amber-300'
+                    isActive
+                      ? "text-amber-400"
+                      : "text-zinc-300 hover:text-amber-300"
                   }`}
                 >
                   {item.name}
-                  <span className={`absolute bottom-0 left-4 right-4 h-0.5 bg-gradient-to-r from-amber-400 to-yellow-600 rounded-full transition-transform duration-300 origin-left ${
-                    isActive ? 'scale-x-100' : 'scale-x-0 group-hover:scale-x-100'
-                  }`} />
+                  <span
+                    className={`absolute bottom-0 left-4 right-4 h-0.5 bg-gradient-to-r from-amber-400 to-yellow-600 rounded-full transition-transform duration-300 origin-left ${
+                      isActive
+                        ? "scale-x-100"
+                        : "scale-x-0 group-hover:scale-x-100"
+                    }`}
+                  />
                 </Link>
               );
             })}
@@ -70,7 +78,7 @@ export default function Navbar() {
 
           <div className="hidden lg:flex items-center gap-3">
             <a
-              href={whatsappUrl}
+              href="https://www.Gabbar247.vip"
               target="_blank"
               rel="noopener noreferrer"
               className="px-4 py-2 border border-amber-500/50 text-amber-400 font-semibold text-xs uppercase tracking-wider rounded-lg hover:bg-amber-500/10 transition-all duration-300"
@@ -95,7 +103,11 @@ export default function Navbar() {
               className="text-zinc-400 hover:text-amber-400 transition-colors p-2"
               aria-label="Toggle mobile menu"
             >
-              {isOpen ? <X className="w-6 h-6" /> : <Menu className="w-6 h-6" />}
+              {isOpen ? (
+                <X className="w-6 h-6" />
+              ) : (
+                <Menu className="w-6 h-6" />
+              )}
             </button>
           </div>
         </div>
@@ -113,9 +125,9 @@ export default function Navbar() {
                   href={item.path}
                   onClick={() => setIsOpen(false)}
                   className={`px-3 py-2.5 rounded-lg text-sm font-semibold transition-colors ${
-                    isActive 
-                      ? 'bg-amber-500/10 text-amber-400 border border-amber-500/20' 
-                      : 'text-zinc-300 hover:bg-zinc-900 hover:text-white'
+                    isActive
+                      ? "bg-amber-500/10 text-amber-400 border border-amber-500/20"
+                      : "text-zinc-300 hover:bg-zinc-900 hover:text-white"
                   }`}
                 >
                   {item.name}
@@ -124,7 +136,7 @@ export default function Navbar() {
             })}
             <div className="flex flex-col gap-2 pt-2 border-t border-zinc-800">
               <a
-                href={whatsappUrl}
+                href="https://www.Gabbar247.vip"
                 target="_blank"
                 rel="noopener noreferrer"
                 onClick={() => setIsOpen(false)}
