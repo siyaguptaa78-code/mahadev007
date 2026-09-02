@@ -11,6 +11,19 @@ const steps = [
   { num: "4", title: "ID Generated", desc: "Get unique login URL and password. Instantly log in and begin play." }
 ];
 
+const faqs = [
+  { question: "What is Mahadev Book?", answer: "Mahadev Book is the brand or website referenced on this domain. Check the site's current pages and terms for the latest information." },
+  { question: "How does a Mahadev Book ID work?", answer: "An account ID is generally used to identify a user account. Refer to Mahadev Book's current account instructions and terms for the exact process." },
+  { question: "How can I access Mahadev Book?", answer: "Use the site's current official URL and verify the domain before entering any account information. Follow the access instructions published on the site." },
+  { question: "What sports are available on Mahadev Book?", answer: "Available sports can change. Check the current sports or betting section on the website for the latest list and availability." },
+  { question: "Does Mahadev Book provide live sports information?", answer: "Check the site's current sports section for any live-event information and the terms that apply to its use." },
+  { question: "How can I get help with my Mahadev Book account?", answer: "Use the contact or support details published on the website. Avoid relying on unofficial accounts or third-party contacts." },
+  { question: "How do I find Mahadev Book login information?", answer: "Use the official domain and follow the current login or access instructions. If access fails, use the site's published support channel." },
+  { question: "What payment options are supported?", answer: "Use the contact or support details published on the website. Avoid relying on unofficial accounts or third-party contacts." },
+  { question: "What should I do if I have trouble accessing my account?", answer: "Use the official domain and follow the current login or access instructions. If access fails, use the site's published support channel." },
+  { question: "Where can I find the latest Mahadev Book updates?", answer: "Refer to Mahadev Book's current website information and terms for the most accurate answer." }
+];
+
 export default function BookIdPage() {
   const whatsappUrl = "https://wa.me/918796686330";
 
@@ -113,6 +126,23 @@ export default function BookIdPage() {
                       Start Step {step.num} <ArrowRight className="w-3.5 h-3.5" />
                     </a>
                   </div>
+                </div>
+              </Reveal>
+            ))}
+          </div>
+        </div>
+
+        {/* FAQ Section */}
+        <div className="mb-20">
+          <Reveal>
+            <h3 className="text-2xl font-serif font-bold text-white text-center mb-10">Frequently Asked Questions</h3>
+          </Reveal>
+          <div className="space-y-4 max-w-3xl mx-auto">
+            {faqs.map((faq, idx) => (
+              <Reveal key={idx} yOffset={20} delay={idx * 0.05}>
+                <div className="glass-card rounded-xl p-6 border border-zinc-850">
+                  <h4 className="text-white font-bold text-base mb-2">{faq.question}</h4>
+                  <p className="text-zinc-400 text-sm font-light leading-relaxed">{faq.answer}</p>
                 </div>
               </Reveal>
             ))}
