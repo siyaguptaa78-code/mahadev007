@@ -11,6 +11,105 @@ export interface BlogPost {
 
 export const blogPosts: BlogPost[] = [
   {
+    slug: "india-afghanistan-t20i-series-2026",
+    title: "India Prepare for Afghanistan T20Is as Selectors Balance Youth, Experience and Workload",
+    excerpt: "Indian cricket is preparing for another important assignment with Afghanistan set to visit India for a three-match T20I series beginning September 13.",
+    date: "September 4, 2026",
+    category: "Cricket",
+    icon: "🏏",
+    readTime: "5 min read",
+    content: `
+      <p>New Delhi, September 4, 2026: Indian cricket is preparing for another important assignment with Afghanistan set to visit India for a three-match T20I series beginning September 13. The series will be played at the Arun Jaitley Stadium in New Delhi, with the remaining matches scheduled for September 15 and 17.</p>
+      <p>The upcoming contest has attracted attention because India's squad combines established international names with some of the country's most promising young players. Sanju Samson has returned to the T20I setup, while teenage batter Vaibhav Suryavanshi has again found a place in the national squad.</p>
+      <p>The series also comes at a time when India's selectors are carefully managing player workloads ahead of a packed international schedule.</p>
+      
+      <h3>Shreyas Iyer to Lead India</h3>
+      <p>Shreyas Iyer has been named captain for the Afghanistan series, with Tilak Varma appointed vice-captain.</p>
+      <p>The leadership change provides Iyer with another opportunity to establish himself as an important figure in India's limited-overs plans.</p>
+      <p>Iyer has considerable international experience and has previously led India in limited-overs cricket. His ability to control the middle overs and build partnerships could be particularly important against Afghanistan's strong spin attack.</p>
+      <p>Tilak Varma's appointment as vice-captain also indicates India's interest in developing leadership options for the future.</p>
+      <p>The 23-year-old has already established himself as a dependable limited-overs player and could become increasingly important in India's T20 setup.</p>
+      
+      <h3>Sanju Samson Returns</h3>
+      <p>Sanju Samson's inclusion is among the most notable developments in the squad.</p>
+      <p>The Kerala wicketkeeper-batter has been one of the most discussed names in Indian cricket because of his ability to produce explosive innings while also providing wicketkeeping options.</p>
+      <p>His return gives India another experienced top-order batter.</p>
+      <p>However, competition for opening positions is intense.</p>
+      <p>India have several players capable of opening the innings, including Abhishek Sharma and Vaibhav Suryavanshi. Determining the ideal combination will therefore be one of the coaching team's most interesting decisions.</p>
+      
+      <h3>Vaibhav Suryavanshi Continues to Attract Attention</h3>
+      <p>The inclusion of Vaibhav Suryavanshi has once again placed the teenage batter in the spotlight.</p>
+      <p>Suryavanshi's aggressive approach has already attracted significant attention, and his progression through domestic and franchise cricket has been closely followed.</p>
+      <p>International cricket presents a different challenge.</p>
+      <p>Afghanistan possess experienced bowlers who can test young batters through variations in pace and spin.</p>
+      <p>If Suryavanshi gets an opportunity, the series could provide valuable experience regardless of the number of runs he scores.</p>
+      <p>The Indian team management will likely want to give him enough time to adapt without placing unnecessary pressure on his performances.</p>
+      
+      <h3>Afghanistan's Spin Threat</h3>
+      <p>Afghanistan have developed a reputation for producing outstanding spin bowlers.</p>
+      <p>Rashid Khan remains one of the most recognisable names in world T20 cricket, while Afghanistan's wider bowling group has developed considerable experience through international and franchise competitions.</p>
+      <p>India's batters will therefore need to be prepared for variations in pace, trajectory and turn.</p>
+      <p>Playing spin effectively in the middle overs could prove critical.</p>
+      <p>India may also consider using left-right batting combinations to disrupt Afghanistan's bowling plans.</p>
+      
+      <h3>India's Fast-Bowling Options</h3>
+      <p>Another major question concerns India's fast-bowling combination.</p>
+      <p>Jasprit Bumrah's fitness remains an important issue as selectors balance his workload across formats.</p>
+      <p>Bumrah is one of India's most valuable players, but fast bowling places substantial physical demands on the body.</p>
+      <p>The management has reportedly been considering backup options while assessing his readiness for upcoming assignments.</p>
+      <p>For India, the priority will be ensuring that Bumrah returns only when he is fully prepared for international competition.</p>
+      
+      <h3>Workload Management Becomes Increasingly Important</h3>
+      <p>The Afghanistan series is just one part of India's wider cricket calendar.</p>
+      <p>The national team is also preparing for the Asian Games, while Test cricket and other international commitments are approaching.</p>
+      <p>This creates a difficult balancing act for selectors.</p>
+      <p>Players need regular cricket to maintain form, but excessive workloads can increase injury risk.</p>
+      <p>This is particularly relevant for fast bowlers and players competing across multiple formats.</p>
+      <p>India's current approach appears to recognise that managing players over an entire season can be more valuable than selecting the strongest possible XI for every individual match.</p>
+      
+      <h3>A Chance for Emerging Players</h3>
+      <p>The three-match series could also provide opportunities to players trying to establish themselves internationally.</p>
+      <p>T20 cricket is particularly suitable for experimentation because players can make an impact quickly.</p>
+      <p>A batter can change a match with a short attacking innings, while a bowler can influence the result through a couple of decisive overs.</p>
+      <p>For younger players, the experience of playing alongside established internationals can be just as valuable as individual statistics.</p>
+      
+      <h3>Delhi Provides an Interesting Setting</h3>
+      <p>All three matches will take place at the Arun Jaitley Stadium in Delhi.</p>
+      <p>Playing the entire series at one venue means both teams will become familiar with the conditions.</p>
+      <p>Pitch behaviour could influence selection.</p>
+      <p>If the surface offers assistance to spinners, Afghanistan may have an opportunity to exploit one of their traditional strengths. If batting conditions are favourable, India's deep batting lineup could become a major advantage.</p>
+      <p>The toss may also play a role depending on evening conditions and the possibility of dew.</p>
+      
+      <h3>What India Need to Improve</h3>
+      <p>India's primary objective will be to develop consistency.</p>
+      <p>T20 cricket rewards aggressive batting, but successful teams also need reliable bowling and sharp fielding.</p>
+      <p>The powerplay will be particularly important.</p>
+      <p>India will want to score quickly without losing multiple wickets, while their bowlers will aim to restrict Afghanistan's top order.</p>
+      <p>The middle overs could become the tactical centre of the contest because both sides possess quality spin options.</p>
+      <p>At the death, India's ability to score efficiently and defend runs will be tested.</p>
+      
+      <h3>Predictions Remain Open</h3>
+      <p>Afghanistan have developed into a highly competitive T20 side, while India possess enormous depth.</p>
+      <p>That makes individual match predictions difficult.</p>
+      <p>India's home advantage and experience could make them favourites in many pre-match assessments, but Afghanistan have enough quality to challenge the hosts.</p>
+      <p>Conditions, team selection, injuries and the toss can all affect the balance.</p>
+      <p>Any publicly available forecasts should therefore be viewed as estimates of probability rather than assurances about what will happen on the field.</p>
+      
+      <h3>More Than a Three-Match Series</h3>
+      <p>The Afghanistan T20Is are important because they come at a transitional point for Indian cricket.</p>
+      <p>The selectors are assessing younger players while continuing to manage experienced stars.</p>
+      <p>Iyer's leadership, Samson's return and Suryavanshi's development are three storylines that could shape the series.</p>
+      <p>At the same time, Bumrah's workload will remain a major consideration as India prepare for a demanding period across formats.</p>
+      
+      <h3>A Series With Plenty at Stake</h3>
+      <p>The first T20I on September 13 will provide the first indication of how India's new combination performs.</p>
+      <p>For Afghanistan, the series represents an opportunity to compete against one of the world's deepest cricket teams.</p>
+      <p>For India, it is an opportunity to test emerging players, strengthen the T20 setup and manage senior stars carefully.</p>
+      <p>The results will naturally attract the most attention, but the bigger objective is building a squad capable of handling the demanding international schedule ahead.</p>
+      <p>With three matches in just five days, the Afghanistan series could provide Indian cricket with plenty of competitive action — and perhaps reveal several players who could become important figures in India's next generation.</p>
+    \`
+  },
+  {
     slug: "premier-league-table",
     title: "Premier League Table: 2026-27 Standings Hub",
     excerpt: "The live Premier League table for 2026-27, Arsenal's title defence, and how last season finished. Standings updated after every matchweek, with India viewing times.",
