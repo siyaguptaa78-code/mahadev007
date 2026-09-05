@@ -33,7 +33,7 @@ export default function Navbar() {
     return () => window.removeEventListener("scroll", handleScroll);
   }, []);
 
-  const whatsappUrl = "https://wa.me/918796686330";
+  const whatsappUrl = "https://wa.me/918360750829";
 
   return (
     <header
