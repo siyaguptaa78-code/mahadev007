@@ -105,7 +105,7 @@ export default async function BlogPostPage({ params }: PageProps) {
 
         {/* Content body */}
         <article 
-          className="prose prose-invert max-w-none prose-amber prose-headings:font-serif prose-headings:font-bold prose-headings:text-white prose-p:text-zinc-350 prose-p:leading-relaxed prose-p:font-light prose-p:mb-6 prose-a:text-amber-400 hover:prose-a:text-amber-300 prose-ul:list-disc prose-ul:pl-6 prose-ul:mb-6 prose-li:text-zinc-350 prose-li:font-light prose-h3:text-xl prose-h3:mt-8 prose-h3:mb-4"
+          className="max-w-none [&_h1]:font-serif [&_h1]:font-bold [&_h1]:text-white [&_h2]:font-serif [&_h2]:font-bold [&_h2]:text-white [&_h3]:text-xl [&_h3]:mt-8 [&_h3]:mb-4 [&_h3]:font-serif [&_h3]:font-bold [&_h3]:text-white [&_p]:text-zinc-350 [&_p]:leading-relaxed [&_p]:font-light [&_p]:mb-6 [&_a]:text-amber-400 hover:[&_a]:text-amber-300 [&_ul]:list-disc [&_ul]:pl-6 [&_ul]:mb-6 [&_li]:text-zinc-350 [&_li]:font-light"
           dangerouslySetInnerHTML={{ __html: post.content }}
         />
 
