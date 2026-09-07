@@ -108,7 +108,7 @@ export const blogPosts: BlogPost[] = [
       <p>For India, it is an opportunity to test emerging players, strengthen the T20 setup and manage senior stars carefully.</p>
       <p>The results will naturally attract the most attention, but the bigger objective is building a squad capable of handling the demanding international schedule ahead.</p>
       <p>With three matches in just five days, the Afghanistan series could provide Indian cricket with plenty of competitive action — and perhaps reveal several players who could become important figures in India's next generation.</p>
-    \`
+    `
   },
   {
     slug: "premier-league-table",
