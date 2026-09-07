@@ -5,7 +5,7 @@ import { Shield, CheckCircle, Heart, MessageCircle } from 'lucide-react';
 
 export default function Footer() {
   const currentYear = new Date().getFullYear();
-  const whatsappUrl = "https://wa.me/918796686330";
+  const whatsappUrl = "https://wa.me/918360750829";
 
   return (
     <footer className="bg-[#050505] border-t border-amber-500/10 text-zinc-400 text-sm font-sans relative overflow-hidden">

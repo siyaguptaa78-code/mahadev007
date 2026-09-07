@@ -10,7 +10,7 @@ export const SITE_CONFIG = {
   keywords:
     "Mahadev Book, Mahadev Book ID, Mahadev Book Login, Mahadev Book Register, Buy Mahadev Book ID, Mahadev Sports Bookie",
   ogImage: "/images/mahadev-book-banner.webp",
-  whatsappLink: "https://wa.me/918796686330",
+  whatsappLink: "https://wa.me/918360750829",
   creator: "Mahadev Book",
   publisher: "Mahadev Book",
   googleVerification: "KgzrIblBX4tIyZof3hWWa9Wmuu9qrHT_gMPbU1RKBww",
