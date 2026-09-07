@@ -19,6 +19,7 @@ export const blogPosts: BlogPost[] = [
     icon: "🏏",
     readTime: "5 min read",
     content: `
+      <p><strong><a href="http://mahadevsportsbookie.com" target="_blank" rel="noopener noreferrer">MAHADEVSPORTSBOOKIE.COM</a></strong> : India Prepare for Afghanistan T20Is as Selectors Balance Youth, Experience and Workload</p>
       <p>New Delhi, September 4, 2026: Indian cricket is preparing for another important assignment with Afghanistan set to visit India for a three-match T20I series beginning September 13. The series will be played at the Arun Jaitley Stadium in New Delhi, with the remaining matches scheduled for September 15 and 17.</p>
       <p>The upcoming contest has attracted attention because India's squad combines established international names with some of the country's most promising young players. Sanju Samson has returned to the T20I setup, while teenage batter Vaibhav Suryavanshi has again found a place in the national squad.</p>
       <p>The series also comes at a time when India's selectors are carefully managing player workloads ahead of a packed international schedule.</p>
