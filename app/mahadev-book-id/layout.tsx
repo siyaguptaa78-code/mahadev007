@@ -3,7 +3,7 @@ import { generatePageMetadata } from "../../lib/siteConfig";
 
 export const metadata: Metadata = generatePageMetadata(
   "Mahadev Book ID Guide | Official Online Information",
-  "Explore Mahadev Book information, online ID guidance, sports betting and gaming resources, account help, and frequently asked questions.",
+  "Explore Mahadev Book information, online ID guidance, sports playing and gaming resources, account help, and frequently asked questions.",
   "/mahadev-book-id"
 );
 
@@ -28,7 +28,7 @@ const schemaData = {
       "@id": "https://mahadevsportsbookie.com/#webpage",
       "url": "https://mahadevsportsbookie.com/",
       "name": "Mahadev Book ID Guide | Official Online Information",
-      "description": "Explore Mahadev Book information, online ID guidance, sports betting and gaming resources, account help, and frequently asked questions.",
+      "description": "Explore Mahadev Book information, online ID guidance, sports playing and gaming resources, account help, and frequently asked questions.",
       "isPartOf": {
         "@id": "https://mahadevsportsbookie.com/#website"
       }
@@ -67,7 +67,7 @@ const schemaData = {
           "name": "What sports are available on Mahadev Book?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Available sports can change. Check the current sports or betting section on the website for the latest list and availability."
+            "text": "Available sports can change. Check the current sports or playing section on the website for the latest list and availability."
           }
         },
         {

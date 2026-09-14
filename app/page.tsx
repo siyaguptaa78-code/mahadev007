@@ -14,10 +14,10 @@ const stats = [
 ];
 
 const games = [
-  { title: "Cricket Betting", desc: "Bet on live and pre-match IPL, International and T20 matches", icon: "🏏" },
-  { title: "Football League", desc: "Bet on live & pre-match Premier league, Champions league, La Liga, ISL", icon: "⚽" },
+  { title: "Cricket Playing", desc: "Play on live and pre-match IPL, International and T20 matches", icon: "🏏" },
+  { title: "Football League", desc: "Play on live & pre-match Premier league, Champions league, La Liga, ISL", icon: "⚽" },
   { title: "Live Casino", desc: "Enjoy live streaming of Teen patti, Andar Bahar, Roulette and Poker", icon: "🃏" },
-  { title: "Tennis Match", desc: "Bet on live scores of Grand Slams, Australian open, WTA & ATP tennis", icon: "🎾" },
+  { title: "Tennis Match", desc: "Play on live scores of Grand Slams, Australian open, WTA & ATP tennis", icon: "🎾" },
   { title: "Virtual Sports", desc: "Play fast-paced digital sports like Cricket, Football and Horse racing", icon: "🎮" }
 ];
 
@@ -31,8 +31,8 @@ const features = [
 const reviews = [
   { name: "Rahul S.", location: "Mumbai", comment: "Winnings credited within 5 mins! Best website ever", rating: 5 },
   { name: "Priya K.", location: "Delhi", comment: "ID received same day. Fast and efficient service with good customer care.", rating: 5 },
-  { name: "Vikram M.", location: "Bangalore", comment: "Betting on IPL was great experience. Fast withdrawals.", rating: 5 },
-  { name: "Ankit T.", location: "Pune", comment: "Best website. All bets are genuine and transparent.", rating: 5 },
+  { name: "Vikram M.", location: "Bangalore", comment: "Playing on IPL was great experience. Fast withdrawals.", rating: 5 },
+  { name: "Ankit T.", location: "Pune", comment: "Best website. All plays are genuine and transparent.", rating: 5 },
   { name: "Suresh P.", location: "Hyderabad", comment: "Very quick response on WhatsApp. Issue resolved immediately.", rating: 5 },
   { name: "Riya N.", location: "Chennai", comment: "Mujhe bahut accha experience mila. Payout fast aur secure hai.", rating: 5 }
 ];
@@ -40,19 +40,19 @@ const reviews = [
 const trustPoints = [
   { title: "Expertise", desc: "Sports & gaming experts with 15+ years in the business", icon: Award },
   { title: "Experience", desc: "1.2M+ users trusted us since 2018 with 60M+ successful financial transactions", icon: Check },
-  { title: "Authority", desc: "India's most popular betting portal awarded by leading media houses", icon: Shield },
+  { title: "Authority", desc: "India's most popular playing portal awarded by leading media houses", icon: Shield },
   { title: "Trust", desc: "SSL & PCI-DSS certified with fair play assurance from iTech Labs", icon: Lock }
 ];
 
 const faqs = [
-  { q: "What is Mahadev Book Online Betting ID?", a: "The Mahadev Book Online Betting ID is a verified account that lets you access betting services such as cricket, casino, poker, and more. With this ID, users can deposit funds, place bets, and enjoy a secure gaming experience." },
-  { q: "How does Mahadev Book work?", a: "Mahadev Book acts as a trusted aggregator. Once you request an ID via WhatsApp, our support agents set up your credentials. You add funds via UPI or bank transfer, receive your betting chips, and log in to the official exchange site. Your winnings can be requested via WhatsApp and are transferred directly to your bank account." },
-  { q: "How do I register for a new Online Betting ID?", a: "Simply click on any 'Get ID' button to open a chat with our verified agent on WhatsApp. Send a request, provide basic details (name, contact), choose your deposit amount, and your ID will be generated in less than 5 minutes." },
-  { q: "What games can I play with my Mahadev Book ID?", a: "You can bet on all major sports including Cricket (IPL, World Cup, Test matches), Football (Premier League, UEFA), Tennis, and E-sports. You also get access to classic Indian card games like Teen Patti, Andar Bahar, and live casinos." },
-  { q: "How do I deposit money into my Mahadev Book account?", a: "Depositing is quick and secure. Our agents will provide verified UPI IDs, GPay details, or bank accounts. Once you make the payment and send a screenshot, your betting chips will be instantly credited to your ID." },
+  { q: "What is Mahadev Book Online Playing ID?", a: "The Mahadev Book Online Playing ID is a verified account that lets you access playing services such as cricket, casino, poker, and more. With this ID, users can deposit funds, place plays, and enjoy a secure gaming experience." },
+  { q: "How does Mahadev Book work?", a: "Mahadev Book acts as a trusted aggregator. Once you request an ID via WhatsApp, our support agents set up your credentials. You add funds via UPI or bank transfer, receive your playing chips, and log in to the official exchange site. Your winnings can be requested via WhatsApp and are transferred directly to your bank account." },
+  { q: "How do I register for a new Online Playing ID?", a: "Simply click on any 'Get ID' button to open a chat with our verified agent on WhatsApp. Send a request, provide basic details (name, contact), choose your deposit amount, and your ID will be generated in less than 5 minutes." },
+  { q: "What games can I play with my Mahadev Book ID?", a: "You can play on all major sports including Cricket (IPL, World Cup, Test matches), Football (Premier League, UEFA), Tennis, and E-sports. You also get access to classic Indian card games like Teen Patti, Andar Bahar, and live casinos." },
+  { q: "How do I deposit money into my Mahadev Book account?", a: "Depositing is quick and secure. Our agents will provide verified UPI IDs, GPay details, or bank accounts. Once you make the payment and send a screenshot, your playing chips will be instantly credited to your ID." },
   { q: "How do I withdraw my winnings?", a: "Withdrawals are available 24/7. Text your WhatsApp agent with your ID username and the amount you want to withdraw. Provide your UPI ID or bank account details, and the funds will be transferred to you in 5 to 10 minutes." },
-  { q: "Is Mahadev Book legal in India?", a: "Mahadev Book operates in a legal grey area. Online betting is governed by state-specific laws in India. While there is no federal law banning online betting platforms hosted outside India, some states have their own restrictions. We advise users to check local regulations." },
-  { q: "Is Mahadev Book safe and trusted?", a: "Yes. With over 1.2 million active users and millions of completed transactions since 2018, Mahadev Book is widely regarded as India's most stable and secure online betting bookmaker." }
+  { q: "Is Mahadev Book legal in India?", a: "Mahadev Book operates in a legal grey area. Online playing is governed by state-specific laws in India. While there is no federal law banning online playing platforms hosted outside India, some states have their own restrictions. We advise users to check local regulations." },
+  { q: "Is Mahadev Book safe and trusted?", a: "Yes. With over 1.2 million active users and millions of completed transactions since 2018, Mahadev Book is widely regarded as India's most stable and secure online playing bookmaker." }
 ];
 
 const tickerItems = [
@@ -73,12 +73,12 @@ export default function Home() {
         <div className="absolute top-20 right-10 w-96 h-96 bg-fuchsia-600 rounded-full blur-[150px] opacity-20"></div>
         <div className="grid lg:grid-cols-12 gap-12 items-center">
           <div className="lg:col-span-7 z-10">
-            <div className="inline-block border-[2px] border-fuchsia-500/50 text-fuchsia-400 font-black px-4 py-1 mb-6 uppercase tracking-widest text-xs">No.1 Betting Platform</div>
+            <div className="inline-block border-[2px] border-fuchsia-500/50 text-fuchsia-400 font-black px-4 py-1 mb-6 uppercase tracking-widest text-xs">No.1 Playing Platform</div>
             <h1 className="text-6xl md:text-8xl font-black uppercase leading-[0.85] tracking-tighter mb-8">
-              BET <br/> <span className="text-transparent bg-clip-text bg-gradient-to-r from-fuchsia-400 to-violet-600">SMART.</span><br/> WIN BIG.
+              PLAY <br/> <span className="text-transparent bg-clip-text bg-gradient-to-r from-fuchsia-400 to-violet-600">SMART.</span><br/> WIN BIG.
             </h1>
             <p className="text-zinc-400 text-lg mb-10 max-w-lg border-l-4 border-fuchsia-600 pl-6 py-2">
-              The ultimate betting exchange. With instant payouts and 60,000+ live events, the odds are finally in your favor.
+              The ultimate playing exchange. With instant payouts and 60,000+ live events, the odds are finally in your favor.
             </p>
             <div className="flex gap-4">
               <a href={whatsappUrl} className="bg-fuchsia-600 hover:bg-fuchsia-500 text-white font-black px-8 py-4 uppercase tracking-widest flex items-center gap-3 shadow-[6px_6px_0_0_rgba(107,33,168,0.5)] transition-all active:translate-y-1 active:shadow-[2px_2px_0_0_rgba(107,33,168,0.5)]">
@@ -113,7 +113,7 @@ export default function Home() {
           <div>
             <h2 className="text-4xl font-black mb-8 border-b-4 border-fuchsia-600 inline-block pb-2">ABOUT MAHADEV</h2>
             <p className="text-zinc-400 text-lg mb-8 leading-relaxed">
-              Mahadev Book offers you betting exchange through aggregator with just a WhatsApp message. Get access to sports betting and high-roller casinos with guaranteed secure payments and quick withdrawals.
+              Mahadev Book offers you playing exchange through aggregator with just a WhatsApp message. Get access to sports playing and high-roller casinos with guaranteed secure payments and quick withdrawals.
             </p>
             <div className="grid grid-cols-2 gap-4">
               {trustPoints.map((tp, i) => (
