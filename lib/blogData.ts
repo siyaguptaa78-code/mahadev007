@@ -140,7 +140,7 @@ export const blogPosts: BlogPost[] = [
       <p>With a verified ID, your personal data and transaction history are protected by 256-bit SSL encryption. This prevents unauthorized access and ensures your profile remains private.</p>
       
       <h3>2. Quick and Hassle-free Withdrawals</h3>
-      <p>One of the biggest concerns for online bettors is payout speed. Verified Lotus Book ID holders enjoy priority processing, with withdrawals hitting their bank accounts or UPI wallets within 5 to 10 minutes.</p>
+      <p>One of the biggest concerns for online players is payout speed. Verified Lotus Book ID holders enjoy priority processing, with withdrawals hitting their bank accounts or UPI wallets within 5 to 10 minutes.</p>
       
       <h3>3. Access to over 60,000 Live Events</h3>
       <p>A single ID unlocks comprehensive playing markets across cricket, football, tennis, horse racing, and live casino games like Teen Patti and Andar Bahar. You get competitive odds and real-time updates directly on your dashboard.</p>
