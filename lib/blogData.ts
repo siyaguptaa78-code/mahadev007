@@ -130,5 +130,307 @@ export const blogPosts: BlogPost[] = [
       </ul>
       <p>Log into your Lotus Book ID to access live odds, in-play statistics, and instant bet slips for every ball of the series.</p>
     `
+  },
+  {
+    slug: "grand-prix-lyon-2026-players-entry-list-seeds",
+    title: "Grand Prix Lyon 2026 Players, Entry List & Seeds: What Tennis Fans Should Know",
+    excerpt: "Complete guide to the Grand Prix Lyon 2026 players, entry list, tournament snapshot, seeds, and venue details for the upcoming ATP 250 tournament.",
+    date: "September 16, 2026",
+    category: "Tennis",
+    icon: "🎾",
+    readTime: "7 min read",
+    content: `
+      <p>The <strong>Grand Prix Auvergne-Rhône-Alpes</strong> is scheduled to make its debut on the ATP Tour in Lyon, France, from <strong>19–25 October 2026</strong>. The tournament is classified as an <strong>ATP 250</strong> and will be played indoors on hard courts.</p>
+
+      <p>For tennis followers, one of the biggest questions ahead of the event will be the eventual <strong>Grand Prix Lyon 2026 players, entry list and seeded positions</strong>. As the tournament is new to the ATP calendar, its inaugural field will be an important part of establishing the event's identity.</p>
+
+      <p>This guide from <strong>MahadevSportsBookie.com</strong> looks at the confirmed tournament structure, how the entry list will be determined, what the seedings mean and which factors fans should consider when the final field is announced.</p>
+
+      <p><strong>Important:</strong> The complete 2026 player entry list and official seeds should be treated as pending until the ATP and tournament organisers publish them. Player commitments can change because of scheduling, withdrawals and ranking changes.</p>
+
+      <h3><strong>Grand Prix Lyon 2026: Tournament Snapshot</strong></h3>
+
+      <div class="overflow-x-auto my-6">
+        <table class="w-full text-left border-collapse border border-zinc-800 text-sm">
+          <thead>
+            <tr class="bg-zinc-900/80 border-b border-zinc-800">
+              <th class="p-3 border border-zinc-800 font-bold text-amber-400">Category</th>
+              <th class="p-3 border border-zinc-800 font-bold text-amber-400">Details</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr class="border-b border-zinc-800/50 hover:bg-zinc-900/40">
+              <td class="p-3 border border-zinc-800 text-zinc-300">Tournament</td>
+              <td class="p-3 border border-zinc-800 text-zinc-300">Grand Prix Auvergne-Rhône-Alpes</td>
+            </tr>
+            <tr class="border-b border-zinc-800/50 hover:bg-zinc-900/40">
+              <td class="p-3 border border-zinc-800 text-zinc-300">Common location reference</td>
+              <td class="p-3 border border-zinc-800 text-zinc-300">Lyon, France</td>
+            </tr>
+            <tr class="border-b border-zinc-800/50 hover:bg-zinc-900/40">
+              <td class="p-3 border border-zinc-800 text-zinc-300">Category</td>
+              <td class="p-3 border border-zinc-800 text-zinc-300">ATP 250</td>
+            </tr>
+            <tr class="border-b border-zinc-800/50 hover:bg-zinc-900/40">
+              <td class="p-3 border border-zinc-800 text-zinc-300">Dates</td>
+              <td class="p-3 border border-zinc-800 text-zinc-300">19–25 October 2026</td>
+            </tr>
+            <tr class="border-b border-zinc-800/50 hover:bg-zinc-900/40">
+              <td class="p-3 border border-zinc-800 text-zinc-300">Surface</td>
+              <td class="p-3 border border-zinc-800 text-zinc-300">Indoor hard court</td>
+            </tr>
+            <tr class="border-b border-zinc-800/50 hover:bg-zinc-900/40">
+              <td class="p-3 border border-zinc-800 text-zinc-300">Singles draw</td>
+              <td class="p-3 border border-zinc-800 text-zinc-300">28 players</td>
+            </tr>
+            <tr class="border-b border-zinc-800/50 hover:bg-zinc-900/40">
+              <td class="p-3 border border-zinc-800 text-zinc-300">Doubles draw</td>
+              <td class="p-3 border border-zinc-800 text-zinc-300">16 teams</td>
+            </tr>
+            <tr class="border-b border-zinc-800/50 hover:bg-zinc-900/40">
+              <td class="p-3 border border-zinc-800 text-zinc-300">Venue</td>
+              <td class="p-3 border border-zinc-800 text-zinc-300">LDLC Arena</td>
+            </tr>
+            <tr class="border-b border-zinc-800/50 hover:bg-zinc-900/40">
+              <td class="p-3 border border-zinc-800 text-zinc-300">Tournament status</td>
+              <td class="p-3 border border-zinc-800 text-zinc-300">First edition</td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+
+      <p>The ATP's 2026 calendar lists Lyon alongside the <strong>Almaty Open</strong> and <strong>BNP Paribas Fortis European Open</strong> during the week beginning October 19.</p>
+
+      <h3><strong>Who Will Play at the Grand Prix Lyon 2026?</strong></h3>
+
+      <p>The final entry list is expected to become clearer closer to tournament week.</p>
+
+      <p>ATP 250 fields generally combine several categories of players:</p>
+
+      <ul><li>Direct entrants based on ranking</li><li>Players receiving wild cards</li><li>Qualifiers</li><li>Special exemptions where applicable</li><li>Alternates replacing withdrawn players</li></ul>
+
+      <p>Consequently, an early list of players should not necessarily be considered the final tournament field.</p>
+
+      <p>The <strong>PIF ATP Rankings</strong> will be particularly important because rankings help determine direct entry and, subsequently, the seedings.</p>
+
+      <h3><strong>Grand Prix Lyon 2026 Entry List</strong></h3>
+
+      <p>At this stage, the complete official 2026 entry list should not be presented as confirmed until the tournament and ATP publish it.</p>
+
+      <p>A useful way of following the field is to divide it into four groups.</p>
+
+      <h4><strong>1. Direct entrants</strong></h4>
+
+      <p>These are players who gain entry based on their ranking and the tournament's entry rules.</p>
+
+      <h4><strong>2. Wild-card players</strong></h4>
+
+      <p>Tournament organisers can award wild cards to selected players. These can provide opportunities for French players, rising youngsters or established competitors who otherwise might not enter directly.</p>
+
+      <h4><strong>3. Qualifiers</strong></h4>
+
+      <p>Players outside the direct-entry field can compete in qualifying, with successful competitors earning places in the main draw.</p>
+
+      <h4><strong>4. Alternates</strong></h4>
+
+      <p>If a player withdraws before the draw, another eligible player can move into the field.</p>
+
+      <h3><strong>How Will the Seeds Be Determined?</strong></h3>
+
+      <p>The Grand Prix Lyon seeds will be based on the applicable <strong>PIF ATP Rankings</strong> used for the tournament.</p>
+
+      <p>In simple terms, the highest-ranked players in the main draw generally occupy the seeded positions.</p>
+
+      <p>For a 28-player ATP 250 singles draw, the seedings are particularly important because they influence the structure of the draw and the route players could face through the tournament.</p>
+
+      <p>However, a player's ranking today does <strong>not</strong> guarantee the same ranking or seed when the Lyon draw is actually made.</p>
+
+      <p>Rankings can change significantly during the weeks leading up to the tournament.</p>
+
+      <h3><strong>Why the 2026 Field Could Be Interesting</strong></h3>
+
+      <p>The timing of the tournament gives the inaugural Lyon event an unusual position on the ATP calendar.</p>
+
+      <p>The event begins on <strong>19 October</strong>, immediately after the extended Rolex Shanghai Masters period. It is followed the next week by ATP 500 events in <strong>Basel and Vienna</strong>.</p>
+
+      <p>That means player schedules could become an important factor.</p>
+
+      <p>Some players may choose Lyon as their preferred October competition, while others may select another event depending on ranking objectives, travel plans and preparation for the closing stages of the season.</p>
+
+      <h3><strong>Lyon's Place in the Late-Season ATP Calendar</strong></h3>
+
+      <p>The October schedule is packed with important events.</p>
+
+      <div class="overflow-x-auto my-6">
+        <table class="w-full text-left border-collapse border border-zinc-800 text-sm">
+          <thead>
+            <tr class="bg-zinc-900/80 border-b border-zinc-800">
+              <th class="p-3 border border-zinc-800 font-bold text-amber-400">Dates</th>
+              <th class="p-3 border border-zinc-800 font-bold text-amber-400">Tournament</th>
+              <th class="p-3 border border-zinc-800 font-bold text-amber-400">Category</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr class="border-b border-zinc-800/50 hover:bg-zinc-900/40">
+              <td class="p-3 border border-zinc-800 text-zinc-300">7–18 Oct</td>
+              <td class="p-3 border border-zinc-800 text-zinc-300">Rolex Shanghai Masters</td>
+              <td class="p-3 border border-zinc-800 text-zinc-300">ATP Masters 1000</td>
+            </tr>
+            <tr class="border-b border-zinc-800/50 hover:bg-zinc-900/40">
+              <td class="p-3 border border-zinc-800 text-zinc-300">19–25 Oct</td>
+              <td class="p-3 border border-zinc-800 text-zinc-300">Grand Prix Auvergne-Rhône-Alpes</td>
+              <td class="p-3 border border-zinc-800 text-zinc-300">ATP 250</td>
+            </tr>
+            <tr class="border-b border-zinc-800/50 hover:bg-zinc-900/40">
+              <td class="p-3 border border-zinc-800 text-zinc-300">19–25 Oct</td>
+              <td class="p-3 border border-zinc-800 text-zinc-300">Almaty Open</td>
+              <td class="p-3 border border-zinc-800 text-zinc-300">ATP 250</td>
+            </tr>
+            <tr class="border-b border-zinc-800/50 hover:bg-zinc-900/40">
+              <td class="p-3 border border-zinc-800 text-zinc-300">19–25 Oct</td>
+              <td class="p-3 border border-zinc-800 text-zinc-300">European Open</td>
+              <td class="p-3 border border-zinc-800 text-zinc-300">ATP 250</td>
+            </tr>
+            <tr class="border-b border-zinc-800/50 hover:bg-zinc-900/40">
+              <td class="p-3 border border-zinc-800 text-zinc-300">26 Oct–1 Nov</td>
+              <td class="p-3 border border-zinc-800 text-zinc-300">Swiss Indoors Basel</td>
+              <td class="p-3 border border-zinc-800 text-zinc-300">ATP 500</td>
+            </tr>
+            <tr class="border-b border-zinc-800/50 hover:bg-zinc-900/40">
+              <td class="p-3 border border-zinc-800 text-zinc-300">26 Oct–1 Nov</td>
+              <td class="p-3 border border-zinc-800 text-zinc-300">Erste Bank Open</td>
+              <td class="p-3 border border-zinc-800 text-zinc-300">ATP 500</td>
+            </tr>
+            <tr class="border-b border-zinc-800/50 hover:bg-zinc-900/40">
+              <td class="p-3 border border-zinc-800 text-zinc-300">2–8 Nov</td>
+              <td class="p-3 border border-zinc-800 text-zinc-300">Rolex Paris Masters</td>
+              <td class="p-3 border border-zinc-800 text-zinc-300">ATP Masters 1000</td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+
+      <p>This calendar positioning means the Lyon entry list may evolve considerably as players finalise their late-season schedules.</p>
+
+      <h3><strong>The Significance of the Inaugural Tournament</strong></h3>
+
+      <p>The Grand Prix Auvergne-Rhône-Alpes is listed by the ATP as a <strong>new ATP 250 event for 2026</strong>, with Lyon hosting the tournament at LDLC Arena. The ATP's tournament directory identifies 2026 as the event's first year.</p>
+
+      <p>That makes the first player field particularly significant.</p>
+
+      <p>The inaugural edition can help establish:</p>
+
+      <ul><li>The tournament's player profile</li><li>French representation</li><li>The competitiveness of the field</li><li>The event's position within the late-season calendar</li><li>Interest among local tennis fans</li></ul>
+
+      <h3><strong>What Should Fans Look for When the Entry List Is Released?</strong></h3>
+
+      <p>When the official list becomes available, several details will be worth checking.</p>
+
+      <h4><strong>Top-ranked entrants</strong></h4>
+
+      <p>The highest-ranked players provide an indication of the overall strength of the field.</p>
+
+      <h4><strong>French representation</strong></h4>
+
+      <p>Because the tournament takes place in France, local players and French wild cards could attract particular attention.</p>
+
+      <h4><strong>Young players</strong></h4>
+
+      <p>ATP 250 events often provide valuable opportunities for emerging players to compete at tour level.</p>
+
+      <h4><strong>Players fighting for ranking positions</strong></h4>
+
+      <p>Late-season tournaments can become important for players attempting to improve their position before the final Masters 1000 event and the ATP Finals.</p>
+
+      <h4><strong>Recent form</strong></h4>
+
+      <p>The ranking provides one measurement, but recent match results can also provide useful context when evaluating the eventual field.</p>
+
+      <h3><strong>Will the Seeds Be Known Before the Draw?</strong></h3>
+
+      <p>Yes, the official seedings are normally confirmed around the time of the tournament draw, once the relevant rankings and final field are established.</p>
+
+      <p>It is therefore useful to distinguish between:</p>
+
+      <p><strong>Entry list:</strong> Players accepted into the tournament.</p>
+
+      <p><strong>Seeds:</strong> The highest-ranked players designated as seeds in the main draw.</p>
+
+      <p><strong>Draw:</strong> The actual placement of players into different sections of the bracket.</p>
+
+      <p>These three things are related but are not the same.</p>
+
+      <h3><strong>Grand Prix Lyon 2026 Draw</strong></h3>
+
+      <p>The singles competition is scheduled as a <strong>28-player draw</strong>, while the doubles competition is scheduled for 16 teams.</p>
+
+      <p>Once the official singles draw is released, fans will be able to see:</p>
+
+      <ul><li>Seed positions</li><li>First-round matchups</li><li>Qualifiers</li><li>Wild cards</li><li>Potential later-round matchups</li><li>Quarter-final sections</li><li>Semi-final pathways</li></ul>
+
+      <p>Until that draw is published, specific matchups should not be presented as confirmed.</p>
+
+      <h3><strong>Why Player Withdrawals Matter</strong></h3>
+
+      <p>Tournament entry lists can change before the start of an event.</p>
+
+      <p>A player may withdraw because of:</p>
+
+      <ul><li>Injury</li><li>Fatigue</li><li>Scheduling</li><li>Ranking considerations</li><li>Personal circumstances</li><li>Changes to the player's competition plans</li></ul>
+
+      <p>When a withdrawal occurs, an alternate or qualifier may enter the field. This is why the <strong>final entry list and final seedings</strong> can differ from early announcements.</p>
+
+      <h3><strong>What Makes Lyon Different?</strong></h3>
+
+      <p>The 2026 tournament has several characteristics that distinguish it from many established ATP events.</p>
+
+      <p>First, it is a <strong>new tournament on the ATP calendar</strong>.</p>
+
+      <p>Second, it is an <strong>indoor hard-court ATP 250</strong>.</p>
+
+      <p>Third, it takes place during an extremely busy portion of the ATP season, immediately after Shanghai and alongside two other ATP 250 tournaments.</p>
+
+      <p>For players, that creates a scheduling decision. For fans, it creates another tournament to follow during one of the busiest stretches of the tennis calendar.</p>
+
+      <h3><strong>Frequently Asked Questions</strong></h3>
+
+      <h4><strong>When is the Grand Prix Lyon 2026?</strong></h4>
+
+      <p>The Grand Prix Auvergne-Rhône-Alpes is scheduled for <strong>19–25 October 2026</strong>.</p>
+
+      <h4><strong>Where will the tournament be held?</strong></h4>
+
+      <p>The event will be held in <strong>Lyon, France</strong>, at the <strong>LDLC Arena</strong>.</p>
+
+      <h4><strong>What category is the Grand Prix Lyon?</strong></h4>
+
+      <p>It is an <strong>ATP 250</strong> tournament.</p>
+
+      <h4><strong>What surface will be used?</strong></h4>
+
+      <p>The tournament is scheduled to be played on <strong>indoor hard courts</strong>.</p>
+
+      <h4><strong>How many players are in the singles draw?</strong></h4>
+
+      <p>The ATP calendar lists a <strong>28-player singles draw</strong>.</p>
+
+      <h4><strong>Has the complete 2026 entry list been confirmed?</strong></h4>
+
+      <p>The final field should be checked against the official ATP tournament page because player commitments and withdrawals can change before the event.</p>
+
+      <h4><strong>How are the seeds decided?</strong></h4>
+
+      <p>Seedings are based primarily on the applicable ATP rankings used when the tournament draw is prepared.</p>
+
+      <h3><strong>Final Thoughts</strong></h3>
+
+      <p>The <strong>Grand Prix Auvergne-Rhône-Alpes 2026</strong> will be a new addition to the ATP Tour, giving Lyon its own ATP 250 event from <strong>19–25 October</strong>.</p>
+
+      <p>The eventual <strong>Grand Prix Lyon 2026 players, entry list and seeds</strong> will be among the most closely followed details as the inaugural tournament approaches. Because the event sits within a particularly busy section of the ATP calendar, the final field could develop significantly between the initial commitments and the official draw.</p>
+
+      <p>For the most accurate information, fans should check the official ATP tournament listing and the tournament's announcements as October approaches.</p>
+
+      <p class="text-xs text-zinc-500 italic mt-8 border-t border-zinc-900 pt-4"><strong>Disclaimer:</strong> This article is provided for sports news, informational and educational purposes only. <strong>MahadevSportsBookie.com does not promote, endorse, encourage or facilitate betting or gambling in India.</strong></p>
+    `
   }
 ];
