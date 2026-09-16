@@ -11,8 +11,21 @@ const steps = [
   { num: "4", title: "ID Generated", desc: "Get unique login URL and password. Instantly log in and begin play." }
 ];
 
+const faqs = [
+  { question: "What is Mahadev Book?", answer: "Mahadev Book is the brand or website referenced on this domain. Check the site's current pages and terms for the latest information." },
+  { question: "How does a Mahadev Book ID work?", answer: "An account ID is generally used to identify a user account. Refer to Mahadev Book's current account instructions and terms for the exact process." },
+  { question: "How can I access Mahadev Book?", answer: "Use the site's current official URL and verify the domain before entering any account information. Follow the access instructions published on the site." },
+  { question: "What sports are available on Mahadev Book?", answer: "Available sports can change. Check the current sports or playing section on the website for the latest list and availability." },
+  { question: "Does Mahadev Book provide live sports information?", answer: "Check the site's current sports section for any live-event information and the terms that apply to its use." },
+  { question: "How can I get help with my Mahadev Book account?", answer: "Use the contact or support details published on the website. Avoid relying on unofficial accounts or third-party contacts." },
+  { question: "How do I find Mahadev Book login information?", answer: "Use the official domain and follow the current login or access instructions. If access fails, use the site's published support channel." },
+  { question: "What payment options are supported?", answer: "Use the contact or support details published on the website. Avoid relying on unofficial accounts or third-party contacts." },
+  { question: "What should I do if I have trouble accessing my account?", answer: "Use the official domain and follow the current login or access instructions. If access fails, use the site's published support channel." },
+  { question: "Where can I find the latest Mahadev Book updates?", answer: "Refer to Mahadev Book's current website information and terms for the most accurate answer." }
+];
+
 export default function BookIdPage() {
-  const whatsappUrl = "https://wa.me/918872189471";
+  const whatsappUrl = "https://wa.me/918360750829";
 
   return (
     <div className="min-h-screen bg-black py-16">
@@ -30,7 +43,7 @@ export default function BookIdPage() {
               Mahadev Book <span className="text-transparent bg-clip-text bg-gradient-to-r from-yellow-300 to-amber-500">Book ID</span>
             </h1>
             <p className="text-zinc-400 text-sm max-w-xl mx-auto font-light">
-              Your personal, encrypted digital passport to secure sports insights, betting odds, and fast payouts.
+              Your personal, encrypted digital passport to secure sports insights, playing odds, and fast payouts.
             </p>
             <div className="w-16 h-0.5 bg-amber-500 mx-auto rounded-full mt-4"></div>
           </div>
@@ -41,13 +54,13 @@ export default function BookIdPage() {
           <Reveal xOffset={-45}>
             <div className="space-y-6">
               <h2 className="text-2xl font-serif font-bold text-white leading-snug">
-                Unlock Safe Online Gaming with Your Verified Betting ID
+                Unlock Safe Online Gaming with Your Verified Playing ID
               </h2>
               <p className="text-zinc-350 leading-relaxed font-light">
-                Your <strong>Mahadev Book ID</strong> is a personal access key to India's trusted online betting ecosystem. With it, you can securely place bets on sports, casino games, and virtual matches within a single platform.
+                Your <strong>Mahadev Book ID</strong> is a personal access key to India's trusted online playing ecosystem. With it, you can securely place plays on sports, casino games, and virtual matches within a single platform.
               </p>
               <p className="text-zinc-400 leading-relaxed font-light">
-                Think of it as your secure digital passport, offering seamless and protected transactions in a feature-rich betting environment. Get started today with a verified agent.
+                Think of it as your secure digital passport, offering seamless and protected transactions in a feature-rich playing environment. Get started today with a verified agent.
               </p>
               <div className="pt-2">
                 <a 
@@ -77,7 +90,7 @@ export default function BookIdPage() {
                   <CheckCircle className="w-5 h-5 text-amber-500 flex-shrink-0" />
                   <div>
                     <h4 className="text-white font-semibold text-sm">Real-time Account Auditing</h4>
-                    <p className="text-zinc-500 text-xs mt-0.5">Easily track deposit receipts, bet stakes, and historical balance statements.</p>
+                    <p className="text-zinc-500 text-xs mt-0.5">Easily track deposit receipts, play stakes, and historical balance statements.</p>
                   </div>
                 </li>
                 <li className="flex gap-3">
@@ -119,6 +132,23 @@ export default function BookIdPage() {
           </div>
         </div>
 
+        {/* FAQ Section */}
+        <div className="mb-20">
+          <Reveal>
+            <h3 className="text-2xl font-serif font-bold text-white text-center mb-10">Frequently Asked Questions</h3>
+          </Reveal>
+          <div className="space-y-4 max-w-3xl mx-auto">
+            {faqs.map((faq, idx) => (
+              <Reveal key={idx} yOffset={20} delay={idx * 0.05}>
+                <div className="glass-card rounded-xl p-6 border border-zinc-850">
+                  <h4 className="text-white font-bold text-base mb-2">{faq.question}</h4>
+                  <p className="text-zinc-400 text-sm font-light leading-relaxed">{faq.answer}</p>
+                </div>
+              </Reveal>
+            ))}
+          </div>
+        </div>
+
         {/* Responsible gambling notice */}
         <Reveal>
           <div className="bg-[#1a0f0f] border border-red-500/20 rounded-2xl p-6 md:p-8 flex flex-col md:flex-row gap-6 items-center">
@@ -128,7 +158,7 @@ export default function BookIdPage() {
             <div className="space-y-2 text-center md:text-left">
               <h4 className="text-white font-bold text-lg">Important Safety Guidelines</h4>
               <p className="text-zinc-400 text-sm font-light leading-relaxed">
-                Always set daily or weekly deposit limits. Betting should be fun and recreational. Never chase losses, and if you require support or self-exclusion, contact our relationship managers immediately. Access is restricted to users aged 18 and older.
+                Always set daily or weekly deposit limits. Playing should be fun and recreational. Never chase losses, and if you require support or self-exclusion, contact our relationship managers immediately. Access is restricted to users aged 18 and older.
               </p>
             </div>
           </div>

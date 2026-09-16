@@ -5,7 +5,7 @@ import { Shield, CheckCircle, Heart, MessageCircle } from 'lucide-react';
 
 export default function Footer() {
   const currentYear = new Date().getFullYear();
-  const whatsappUrl = "https://wa.me/918872189471";
+  const whatsappUrl = "https://wa.me/918360750829";
 
   return (
     <footer className="bg-[#050505] border-t border-amber-500/10 text-zinc-400 text-sm font-sans relative overflow-hidden">
@@ -19,7 +19,7 @@ export default function Footer() {
           <div className="space-y-5">
             <Logo />
             <p className="text-zinc-400 leading-relaxed font-light">
-              India sports insights, fantasy and betting analysis with verified betting IDs across the country
+              India sports insights, fantasy and playing analysis with verified playing IDs across the country
             </p>
             <div className="flex gap-3 text-amber-500">
               <Shield className="w-5 h-5 opacity-80" />
@@ -44,7 +44,7 @@ export default function Footer() {
                 <Link href="/blog" className="hover:text-amber-400 transition-colors">Insights Blog</Link>
               </li>
               <li>
-                <Link href="/mahadev-betting-app" className="hover:text-amber-400 transition-colors">Mahadev Betting App</Link>
+                <Link href="/mahadev-playing-app" className="hover:text-amber-400 transition-colors">Mahadev Playing App</Link>
               </li>
               <li>
                 <Link href="/mahadev-book-id" className="hover:text-amber-400 transition-colors">Mahadev Book ID</Link>
@@ -66,8 +66,8 @@ export default function Footer() {
             <ul className="space-y-2.5">
               <li><span className="text-zinc-500">•</span> Gold365 Exchange</li>
               <li><span className="text-zinc-500">•</span> Laser247 Official</li>
-              <li><span className="text-zinc-500">•</span> IPL Cricket Betting ID</li>
-              <li><span className="text-zinc-500">•</span> Online Betting ID India</li>
+              <li><span className="text-zinc-500">•</span> IPL Cricket Playing ID</li>
+              <li><span className="text-zinc-500">•</span> Online Playing ID India</li>
               <li><span className="text-zinc-500">•</span> Mahadev Book Online Book</li>
               <li><span className="text-zinc-500">•</span> Mahadev Book Official</li>
             </ul>
@@ -79,7 +79,7 @@ export default function Footer() {
               Get Started
             </h4>
             <p className="text-zinc-400 font-light leading-relaxed">
-              Create your betting account in under 2 minutes and start betting smartly
+              Create your playing account in under 2 minutes and start playing smartly
             </p>
             <a
               href={whatsappUrl}

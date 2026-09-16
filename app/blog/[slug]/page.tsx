@@ -105,7 +105,7 @@ export default async function BlogPostPage({ params }: PageProps) {
 
         {/* Content body */}
         <article 
-          className="prose prose-invert max-w-none prose-amber prose-headings:font-serif prose-headings:font-bold prose-headings:text-white prose-p:text-zinc-350 prose-p:leading-relaxed prose-p:font-light prose-p:mb-6 prose-a:text-amber-400 hover:prose-a:text-amber-300 prose-ul:list-disc prose-ul:pl-6 prose-ul:mb-6 prose-li:text-zinc-350 prose-li:font-light prose-h3:text-xl prose-h3:mt-8 prose-h3:mb-4"
+          className="max-w-none [&_h1]:font-serif [&_h1]:font-bold [&_h1]:text-white [&_h2]:font-serif [&_h2]:font-bold [&_h2]:text-white [&_h3]:text-xl [&_h3]:mt-8 [&_h3]:mb-4 [&_h3]:font-serif [&_h3]:font-bold [&_h3]:text-white [&_p]:text-zinc-350 [&_p]:leading-relaxed [&_p]:font-light [&_p]:mb-6 [&_a]:text-amber-400 hover:[&_a]:text-amber-300 [&_ul]:list-disc [&_ul]:pl-6 [&_ul]:mb-6 [&_li]:text-zinc-350 [&_li]:font-light"
           dangerouslySetInnerHTML={{ __html: post.content }}
         />
 
@@ -113,11 +113,11 @@ export default async function BlogPostPage({ params }: PageProps) {
         <div className="mt-16 p-8 rounded-2xl glass-card border border-amber-500/10 text-center space-y-4">
           <h3 className="text-xl font-serif font-bold text-white">Want to put these insights into action?</h3>
           <p className="text-zinc-400 text-sm font-light max-w-md mx-auto">
-            Get your verified Mahadev Book ID on WhatsApp in under 5 minutes and start placing smart bets now.
+            Get your verified Mahadev Book ID on WhatsApp in under 5 minutes and start placing smart plays now.
           </p>
           <div className="pt-2">
             <a 
-              href="https://wa.me/918872189471"
+              href="https://wa.me/918360750829"
               target="_blank"
               rel="noopener noreferrer"
               className="inline-flex items-center justify-center bg-gradient-to-r from-yellow-400 to-amber-500 text-black font-extrabold px-6 py-3 rounded-xl hover:brightness-110 transition-all duration-300 shadow-md shadow-amber-500/10"
